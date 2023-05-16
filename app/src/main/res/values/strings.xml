@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="welcome_message">Bienvenue dans notre application de quiz !</string>
+    <string name="question">Question</string>
+    <string name="answer">Réponse</string>
+    <string name="next">Suivant</string>
+    <string name="submit">Valider</string>
+    <string name="score">Score</string>
+    <string name="out_of">/%1$d</string>
+    <string name="finish">Terminer</string>
+    <string name="restart">Recommencer</string>
+    <string name="confirm_exit">Êtes-vous sûr de vouloir quitter ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+</resources>
